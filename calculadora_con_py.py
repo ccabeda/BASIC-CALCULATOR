@@ -76,12 +76,4 @@ def resultado():
         entrada.insert(0,"Math Error")
         
 
-    
-
-
-
-
-
-
-
 ventana.mainloop()
