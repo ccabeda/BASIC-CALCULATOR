@@ -75,5 +75,5 @@ def resultado():
         entrada.delete(0,"end")
         entrada.insert(0,"Math Error")
         
-
 ventana.mainloop()
+
